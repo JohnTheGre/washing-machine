@@ -56,3 +56,7 @@ To publish your library to [npm](https://www.npmjs.com):
 ```sh
 npm publish
 ```
+
+# My app explanation
+
+This is an app that is used to help people who live in "student houses" or a house with multiple rooms to keep track of their washing machine and dryers
