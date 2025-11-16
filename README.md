@@ -59,4 +59,24 @@ npm publish
 
 # My app explanation
 
-This is an app that is used to help people who live in "student houses" or a house with multiple rooms to keep track of their washing machine and dryers
+This is an app designed to help people living in student houses or shared accommodations manage their communal washing machines and dryers. It eliminates confusion about which machines are available and helps residents coordinate laundry schedules efficiently.
+
+## Key Features
+
+### Room Management
+Create and manage multiple laundry rooms (e.g., "Basement," "Ground Floor," "Building A")
+Add washing machines and dryers to each room
+View the location and total number of machines per room
+Get an an overview of all available machines across different locations
+
+### Individual Machine Tracking
+Each washing machine and dryer has its own dedicated page
+Set timers for individual machines when starting a load
+View real-time availability status (available, in use, time remaining)
+See which specific machines are free without having to physically check each one
+
+### Benefits
+No more guessing: Know exactly which machines are available before going to the laundry room
+Better coordination: Avoid conflicts with housemates over machine usage
+Time-saving: Plan your laundry around actual availability
+Transparency: Everyone can see when machines will be free
